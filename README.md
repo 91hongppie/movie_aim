@@ -15,7 +15,7 @@
 
 1. Python Web Framework 
 
-   A. Django 2.2.x 
+   A. Django 2.1.x 
 
    B. Python 3.7.x 
 
